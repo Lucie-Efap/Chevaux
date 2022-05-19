@@ -1,0 +1,86 @@
+body {
+	background-color: #EFE7E7;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-bottom: 10%;
+	font-family: 'Libre Bodoni', serif;
+}
+h1	{
+	color: #1E6091;
+	text-align: center;
+	text-decoration-line: underline;
+}
+
+.bloc-titre{ 
+	background-color: whitesmoke;
+	padding: 5%;
+ }
+h2 {
+	color: #1E6091;
+	text-align: center;
+	font-weight: 600;
+
+}
+p {
+	font-weight: 400;
+}
+
+.grande-paysage {
+	width: 80%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.potrait-hauteur {
+	width: 33%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.texte-justify{
+	text-align: justify-all;
+}
+
+.center{
+
+text-align: center;
+}
+
+.center-content{
+	text-align: center;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+div{
+	padding-bottom: 80px;
+	padding-top: 80px;}
+
+.justify-content{
+	text-align: justify;
+}
+
+.video-center{
+	text-align: center;
+}
+
+.elements-aligned {
+	display: flex;
+	justify-content: space-around;
+}
+
+.link-aligned{ 
+	display: flex; 
+	justify-content: space-around;
+	border: 2px solid #FAADFF;
+}
+
+.link-color{
+	color: #FAADFF;
+}
+
+a:hover{
+	color: #1E6091;
+}
